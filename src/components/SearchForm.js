@@ -6,10 +6,10 @@ class SearchForm extends React.Component {
         return (
             <Form inline>
                 <FormGroup controlId="formInlineEmail">
-                    <FormControl type="search" placeholder="enter something..." />
+                    <FormControl type="search" placeholder="Finance..." />
                 </FormGroup>
                 {' '}
-                <Button type="submit">search</Button>
+                <Button type="submit">Search</Button>
             </Form>
         );
     }
