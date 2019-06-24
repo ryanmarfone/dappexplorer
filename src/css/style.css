@@ -1,0 +1,31 @@
+body{
+    background-color:#f0f0f0;
+}
+.hero{
+    background-color: #007bff;
+}
+
+.jumbotron{
+    background-color: inherit;
+    padding: 0;
+    margin: 60px 0px 90px 0px;
+}
+
+.jumbotron p{
+    padding: 10px 0px;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+h1{
+    color: #FFFFFF;
+}
+
+.section{
+    margin-top: 30px;
+}
+
+.section h2{
+    margin-bottom: 30px;
+    color: #343a40;
+}
